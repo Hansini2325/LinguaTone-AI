@@ -82,10 +82,9 @@ LinguaTone-AI/
 ---
 screenshots 
 
-<img width="1919" height="1062" alt="Screenshot 2026-03-29 175758" src="https://github.com/user-attachments/assets/e76a4b14-0af9-480c-8259-2c0b0516bd2e" />
-<img width="1919" height="942" alt="Screenshot 2026-03-29 175725" src="https://github.com/user-attachments/assets/b14dc3bd-99b2-4867-bf74-200a2defdea3" />
 <img width="1919" height="1076" alt="Screenshot 2026-03-29 175708" src="https://github.com/user-attachments/assets/26dfd861-4340-430d-ac3e-4709d4d9affa" />
-
+<img width="1919" height="942" alt="Screenshot 2026-03-29 175725" src="https://github.com/user-attachments/assets/b14dc3bd-99b2-4867-bf74-200a2defdea3" />
+<img width="1919" height="1062" alt="Screenshot 2026-03-29 175758" src="https://github.com/user-attachments/assets/e76a4b14-0af9-480c-8259-2c0b0516bd2e" />
 ##  Author
 
 **Hansini**
