@@ -62,6 +62,11 @@ LinguaTone-AI/
 | Run the app          | `streamlit run app.py`            |
 
 ---
+## LINK
+LOCAL URL : http://localhost:8501/
+NETWORK  URL  : http://172.25.244.50:8501 ( Use VIT BHOPAL UNIVERSITY NETWORK )
+
+---
 
 ## Learning Outcomes
 
